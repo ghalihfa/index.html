@@ -37,6 +37,9 @@ nav{
     position: -webkit-sticky;
     top: 0;
     background:#FFFFFF;
+     z-index: 1;
+    border: 1px solid blue;
+
 }
 
 nav ul{
